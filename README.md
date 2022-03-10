@@ -1,4 +1,3 @@
 # Prallax-Scrolling-Website
 
-# Demo
 
